@@ -1,6 +1,6 @@
 {
   "name": "camel-2-dash",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "transform a string from camelCase to dash-style",
   "main": "index.js",
   "scripts": {
